@@ -1,0 +1,64 @@
+[33mcommit 48d66fb92ba51f7f1e2e8be228b2195fb297296f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Sat Aug 22 15:21:01 2020 +0900
+
+    test : Integration test in MemberService
+
+[33mcommit 8e0383b65198d33f36a4a8379a2ac51ccb187ea4[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Sun Aug 16 19:57:46 2020 +0900
+
+    feat : add member sign-up
+
+[33mcommit e5f87bb059612b3bae1e70f2cf4e447f661c68e7[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Sat Aug 15 21:29:45 2020 +0900
+
+    feat : 자바 코드로 스프링 빈 등록하기
+
+[33mcommit 0b3e961b98fa9a44db6b74022b98d176d6536c9e[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Sat Aug 15 18:04:02 2020 +0900
+
+    test : MemberServiceTest
+
+[33mcommit 2a82a561246c5c4d028672247800ba1bd74c9488[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Thu Aug 13 23:43:15 2020 +0900
+
+    feat : add MemberService
+    
+    서비스 로직 구현
+
+[33mcommit 0dea4b4ef002cc1853194c0d1967efe84649e8fd[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Thu Aug 13 00:10:04 2020 +0900
+
+    test : add test case MemoryMemberRepositoryTest
+
+[33mcommit fa7b6362cb02bdd92313590923b845a013c01177[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Mon Aug 10 21:46:28 2020 +0900
+
+    feat : add domain & repository
+    
+    add MemberReposotory interface and MemberMemberRepository implements
+    MemberRepository in repository
+
+[33mcommit ea8212f106874b9125b22512702c851733cdb4d5[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Sat Aug 8 22:52:03 2020 +0900
+
+    Static Content, MVC & Template, API
+
+[33mcommit 3052a68e2eb161e91265fb9d2841b7167de61ff7[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Mon Jul 27 23:24:41 2020 +0900
+
+    Static Content
+
+[33mcommit 5adc9168343f863594d1e2d9fc468dd5737073e2[m
+Author: 한진호 <tlfanfvk@naver.com>
+Date:   Sun Jul 26 22:29:06 2020 +0900
+
+    Initial commit

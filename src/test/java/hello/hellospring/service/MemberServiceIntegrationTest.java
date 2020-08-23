@@ -20,7 +20,6 @@ class MemberServiceIntegrationTest {
     @Autowired MemberService memberService;
     @Autowired MemberRepository memoryMemberRepository;
 
-
     @Test
     void 회원가입() {
         // given : 주어진 것
