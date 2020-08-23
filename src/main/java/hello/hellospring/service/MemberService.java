@@ -5,6 +5,7 @@ import hello.hellospring.repository.MemberRepository;
 import hello.hellospring.repository.MemoryMemberRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.Optional;
@@ -12,6 +13,7 @@ import java.util.Optional;
 // 네이밍
 // Service는 주로 비지니스 로직
 // 리포지토리는 단순 데이터를 입출력 등
+@Transactional
 public class MemberService {
     private final MemberRepository memberRepository;
 
